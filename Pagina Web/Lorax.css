@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+body {
+	background: url("https://upload.wikimedia.org/wikipedia/commons/d/df/Im%C3%A1genes-de-Corazones-10.jpg");
+	background-size: 10%;
+	margin: 50;
+}
+#caja1{
+	background: #E14949; 
+}
+#caja2{
+	background: #F67B35; 
+}
+#caja3{
+	background: #E14949; 
+}
+#caja4{
+	background: #F67B35;
+}

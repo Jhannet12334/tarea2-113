@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;	
+}
+body {
+	background: url("https://i.scdn.co/image/ab6761610000e5eb23cdf6506982920320b34f16");
+	background-size: 10%;
+	margin: 50;
+}
+#caja1{
+	background: #2B47E9; 
+}
+#caja2{
+	background: #43B8F4; 
+}
+#caja3{
+	background: #43E1CF; 
+}
+#scaja1{
+	float: right;
+	background: #47E758;	
+	width: 40%;
+}
+#scaja2{
+	background: #39E1A0; 
+}
